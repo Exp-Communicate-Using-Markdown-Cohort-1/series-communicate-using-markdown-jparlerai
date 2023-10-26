@@ -4,3 +4,5 @@
 #### H4 is getting smaller
 ##### H5 is like normal
 ###### and H6 is the smallest in this set
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
